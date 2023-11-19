@@ -1,0 +1,19 @@
+.simple {
+    background-color: pink;
+    font-size: 26px;
+}
+
+.simple.cooler {
+    font-size: 38px;
+}
+
+#one {
+    color: blue;
+    font-size: 46px;
+}
+
+#another {
+    font-weight: bold;
+    font-size: 42px;
+
+}
